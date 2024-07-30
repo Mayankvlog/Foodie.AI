@@ -16,6 +16,6 @@ different fixings like milk, cheddar, flavors, and liquor.
 
 These parts probably act as selectable things inside the application,
 
-working with recipe investigation or examination. T
+working with recipe investigation or examination. 
 
-he content's usefulness past fixing taking care of stays indistinct minus any additional examination.
+The content's usefulness past fixing taking care of stays indistinct minus any additional examination.
