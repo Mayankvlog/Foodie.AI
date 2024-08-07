@@ -6,6 +6,7 @@ import nltk
 nltk.download('punkt')
 import os
 
+
 url = "recipes_final.csv"
 recipes = pd.read_csv(url)
 
