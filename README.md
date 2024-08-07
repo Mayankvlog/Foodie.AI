@@ -1,4 +1,4 @@
-# Recipe_recmmedation_with_nlp
+# Recipe_recommedation_with_nlp
 
 The gave Python script, uses Streamlit for web application creation,
 
